@@ -2,7 +2,7 @@
 Desafio ETL - DIO Santander Bootcamp 2023 - Ciência de Dados com Python Pipeline de ETL com Python
 
 
-arquivo utilizado simplesmente de forma didatica, sem volume de dados, somente para demostração.    
+Arquivo utilizado simplesmente de forma didatica, sem volume de dados, somente para demostração.    
 
 
 |index|ID|Nome|Idade|
